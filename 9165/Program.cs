@@ -10,6 +10,8 @@ namespace _9165
     {
         static void Main(string[] args)
         {
+            //follow What1, What2 and What for ->4->2->3
+            //follow What 4 for ->E->D->C
         }
 
         static int What1(Node<int> lst)
